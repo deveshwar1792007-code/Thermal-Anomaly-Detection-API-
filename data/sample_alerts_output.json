@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "asset_id": "MTR-07",
+    "inspection_id": 3,
+    "severity": "warning",
+    "status": "open",
+    "created_at": "2026-11-10T11:42:35.527286+00:00",
+    "acknowledgements": []
+  },
+  {
+    "id": 1,
+    "asset_id": "BLR-02",
+    "inspection_id": 2,
+    "severity": "critical",
+    "status": "open",
+    "created_at": "2026-11-10T11:42:35.525550+00:00",
+    "acknowledgements": []
+  }
+]

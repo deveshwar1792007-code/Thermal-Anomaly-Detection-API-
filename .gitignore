@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+thermal_anomaly.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
